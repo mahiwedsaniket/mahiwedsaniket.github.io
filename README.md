@@ -1,4 +1,4 @@
-# kaniket1.github.io
+# mahiwedsaniket.github.io
 Just another website
 
 <!-- bundle exec jekyll serve -->
