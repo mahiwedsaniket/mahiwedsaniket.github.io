@@ -1,17 +1,38 @@
-<!DOCTYPE html>
-<html>
-<body>
+---
+layout: default
+title: Aniket's Blog
+---
+	<h1>
+	<div class="citiestitle">
+		{{ page.title }}
+	</div>
+	</h1>
 
-<h1>Mahi Weds Aniket</h1>
+<ul>
+  {% for post in site.posts %}
+	{% for tag in post.tags %}
+	{% if tag == "Front" %}
+	<div class="container">
+	<li>
+		<div class="container">
+			<div class="one">
+				<div class="citiestitle">
+			{{ post.date | date_to_string }}
+			</div>
+			</div>
+			<div class="two">
+			<div class="citiesfront">
+      <!-- <a href="{{ post.permalink }}">{{ post.title }}</a> -->
+	  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+      <p>{{ post.excerpt }}</p>
+		</div>
+	</div>
+	<br style="clear: left;" />	
+    </li>
+</div>
+  {% endif %}
+  {% endfor %}
+  {% endfor %}
+</ul>
 
-
-<center>
-<img src="image/va1.png" width="1000" alt="Va1">
-<img src="image/va2.png" width="1000" alt="Va1">
-<img src="image/va3.png" width="1000" alt="Va1">
-</center>
-
-</body>
-</html>	
-	
 

@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Story of one sector growth models"
+date: 2017-09-06
+tags:
+- Economics
+- Growth
+---
+
+
+The canonical one-sector neo-classical growth model captures the essence of the real world by using a set of simplifying assumptions. These are the assumptions of constant returns to scale and competitive markets. As we will see below, these assumptions are interlinked and revoking one assumption implies revoking the other as well. 
+
+## The supply side
+
+An economy is composed of numerous components (sectors and firms) that vary in their characteristics, i.e., their size, what they produce and the technology they use. The technology can be summarised as the set of ideas that takes factor of production like human labour and machines or other forms of human capital to produce an output. With the same set of human and machines, there may be more than one way of producing the same thing. Technology is a set of ideas of plans. Different technologies are different plans of using machines and humans to produce an output. If one plan produces more than the other, then we would call if a more productive technology. The problem with discovering whether a technology is more productive than other should become apparent here. If a new technology produces more in a quantifiable way, i.e., quantity, then it is easy to say to that the new technology is more productive. If a technology produces the same quantity of goods but of better quality, then it becomes more difficult to show that the new technology is empirically better even though it is clear subjectively that is more productive. The components of the economy, both at the disaggregated level of the firms and the aggregated level of the sectors can have different characteristics in terms of human labour, physical capital and technology used. Yet, it they all have constant returns to scale, it dramatically reduces the complications of understanding the economy. Or we could look at it another way. We can take an economy where all firms have a constant return to scale economy as an easy benchmark case. Once we have understood it, we can further complicate the analysis by revoking the assumption of constant returns to scale. This is an example of layering the information, i.e., understand something simple and them make it more complicated. We will later see the pros and cons of this approach.
+
+With constant returns to scale production function, if you double in the inputs, the output doubles. Similarly, if you halve the input, the output halves as well. The scale does not have an impact on the output produced. Think of farming wheat in 10 acres of land with 10 workers. Whether the whole bit of land is farmed as one unit or broken down into ten units, the output of wheat remains the same. As first go it looks like a rather strong assumption. Though, think about it this way. What are the other options. The wheat farm has increasing returns to scale, i.e., the output increases if the farm size increases by increasing its land holding and hiring more workers. In that case, the land owners and the workers have all the incentive to come together an  farm together as an unit till the time the farm becomes so big that there is no point in adding in more land and workers. As that point, the increasing returns to scale no long holds. If the farm keeps increasing in size, it will reach a point where it exhibits decreasing returns to scale, i.e., output will go up if the farm size decreased. One could argue that its likely that we will find most firms in the economy operating at a scale where the constant returns to scale applies. If not, they have all the incentive to scale up or scale down. Financial constraints, i.e., inability to borrow or save are both reasons why constant returns to scale may not be achieved. If the entrepreneur cannot borrow, they cannot scale up. Similarly, if the saving options are less lucrative than the returns from putting the saving in firm, then the entrepreneurs may increase their scale to an substitute for saving. 
+
+<!-- Write up a restaurant and returns to scale analysis -->
+
+The big advantage of assuming constant returns to scale is that size of the firms in the economy does not influence the output of the economy. 
+the size of these each component does not matter if each of these components of the economy exhibits constant returns to scale. This is because with constant returns to scale, the output of an economy remains the same irrespective of the size of the firms. With constant returns to scale, an economy modelled as one firm or subdivided into numerous pieces produces the same output. Hence, constant returns to scale is the crucial simplifying assumption. Competitive markets equate the marginal product of factors across firms and all sectors converge towards the same capital-labour ratios. Thus, with constant returns to scale and competitive markets, all sectors converge and exhibit the same characteristics and hence the economy can be modelled as one sector economy. Thus, the critical assumptions required for this abstract version of reality to hold is constant returns to scale and competitive markets. These two assumptions that are interlinked.
+
+The crucial bit thus is whether these two interlinked assumptions are justified or not. With empirical evidence mounting, these assumptions got challenged in the early 1980s and from this challenged emerged the endogenous growth theory and the new trade theory. These two literatures have exhaustively explored the implications of revoking these two assumptions implies revoking the other one too.
+
+As we see below, differentiating the economy into a two sector model and making a case for modelling sales and distribution as a separate sector requires revoking this assumption.
+
+
+## The demand side
+
+All factors generate factor incomes and agents in the economy choose what to spend and what they save. The spending pattern and the preference of the agents determine whether a particular firm or sector flourishes or declines. Thus, consumers demand matters if the objective is to study a firm or a sector. Conversely, if the objective is to study the economy as a whole, the spending patterns do not matter.
+
+The paper seems to presume that the sales and distribution sector is critical for generating the demand for the goods. This, as I explain below, is entirely misleading. Factor payments become income and (in a closed economy), the consumers have no option but to buy the good produced in the economy. The sales and distribution may add value by transporting the goods and in that way behave like any other part of the economy. It is entirely misleading to assume that they are critical for generating the demand for goods. There are two scenarios. In one case, the sales and distribution overcome and either physical distance (say in a country like Norway this would be very important) or provides information problem. In that case, the sales and distribution are just a sector that adds value to the good and can potentially be a fully competitive sector. In this case, it is not clear why the capital labour ratio will diverge in the production and the sales and distribution sector.
+
+The other case is where firms in the sales and distribution have some market power. This could either be due to increasing returns to scale or by using political lobbying to prevent entry into sales and distribution sector. If the firms in the sales and distribution exert market power, then the markup they charge works like a tax on goods and reduces the demand for goods through higher prices. This scenario has been extensively modelled in the new trade theory and the literature on endogenous growth theory. The authors don’t seem to aware of these literatures. Acemoglu (2008) and Lucas (2002) have an excellent discussion of growth theory models that have done exactly this. Helpman and Krugman (1985) and Helpman and Krugman (1989) do the same for new trade theory.
+
+The paper models production activity separately from the sales and distribution sector. A two sector model requires clear justification. That is, it needs to be clear about what holds back the marginal product of factors in different sectors from converging.
+The paper has constant returns to scale and competitive markets in both the production and sales sector. Thus, it is not clear why the two sectors would not converge towards each other. There is no theoretical contribution in assuming that there is some exogenous wrinkle that keeps them apart. To differentiate the two sectors, one of the two assumptions would have to revoked through some exogenous reasons. Revoking these assumptions would require empirical evidence and that may be an area of potential contribution.
+
+
+### References
+
+* Acemoglu, D. (2008). Introduction to modern economic growth. Princeton University Press.
+* Helpman, E. and Krugman, P. R. (1985). Market structure and foreign trade: Increasing returns, imperfect competition, and the international economy. MIT press.
+* Helpman, E. and Krugman, P. R. (1989). Trade policy and market structure. MIT press. 
+* Lucas, R. E. (2002). Lectures on economic growth. Harvard University Press.
