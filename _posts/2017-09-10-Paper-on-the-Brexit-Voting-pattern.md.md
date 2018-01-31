@@ -5,7 +5,6 @@ date: 2017-09-10
 tags:
 - Economics
 - Brexit
-- Front
 ---
 
 This pieces interprets the results of a new paper on UK's vote to leave the European Union.

@@ -5,8 +5,6 @@ date: 2017-09-13
 tags:
 - Book
 - Learning
-- Front
-
 ---
 
 
