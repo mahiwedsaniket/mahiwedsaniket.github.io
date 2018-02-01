@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 90%;
+    width: 97%;
     color: rgb(160,105,30);
     background-color: #F5F3EE;
 	background: url("../fig/fade_blue_gota.jpg") ;
@@ -112,6 +112,7 @@ div.ex2 {
 div.citiesfront {
 		max-width: 400px;
 		background-color: rgb(244,240,223);
+/*		background-color: rgb(236,200,223);*/
 		background: url("../fig/offwhite.png") ;
 	    margin: 0px 0 20px 0;
 	    padding: 12px;
@@ -123,6 +124,7 @@ div.citiesfront {
 div.citiesback {
 		max-width: 100%;
 		background-color: rgb(244,240,223);
+/*		background-color: rgb(198,110,58);*/
 		background: url("../fig/offwhite.png") ;
 	    margin: 0px 0 20px 0;
 	    padding: 20px;
@@ -172,7 +174,7 @@ div.citiestitle {
 
 
 .container {
-    width: 1000px;
+    width: 100%;
 }
 
 .one {
