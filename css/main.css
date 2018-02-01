@@ -1,5 +1,5 @@
 body {
-    margin: 60px;
+    margin: 60px auto;
     width: 868px;
     color: rgb(160,105,30);
     background-color: #F5F3EE;
@@ -166,9 +166,9 @@ div.citiestitle {
 	}
 	
 .newspaper {
-    -webkit-column-count: 2; /* Chrome, Safari, Opera */
-    -moz-column-count: 2; /* Firefox */
-    column-count: 2;
+    -webkit-column-count: 1; /* Chrome, Safari, Opera */
+    -moz-column-count: 1; /* Firefox */
+    column-count: 1;
 	column-gap: 60px;
 } 
 
