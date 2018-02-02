@@ -1,27 +1,13 @@
 body {
     margin: 0px auto;
     width: 97%;
-	max-width: 700px;
+	max-width: 800px;
     color: rgb(160,105,30);
     background-color: #F5F3EE;
 	background: url("../fig/fade_blue_gota.jpg") ;
 	font-family: 'Vollkorn', "Times New Roman", Times, serif;
 	font-size: 16px;
 }
-
-@media only screen and (max-width: 1600px) {
-	body {
-	    margin: 0px auto;
-	    width: 99%;
-/*		max-width: 800px;*/
-	    color: rgb(160,105,30);
-	    background-color: #F5F3EE;
-		background: url("../fig/fade_blue_gota.jpg") ;
-		font-family: 'Vollkorn', "Times New Roman", Times, serif;
-		font-size: 22px;
-	}
-}
-
 
 nav ul, footer ul {
 /*    font-family:'Helvetica', 'Arial', 'Sans-Serif';*/
@@ -73,17 +59,10 @@ h3 {
 
 p {
 	font-size: 18px;
-    line-height: 1.6;
+    line-height: 1.5;
     color: rgb(0,32,61);
 }
 
-@media only screen and (max-width: 1600px) {
-	p {
-		font-size: 20px;
-	    line-height: 1.2;
-	    color: rgb(0,32,61);
-	}
-}
 
 
 
