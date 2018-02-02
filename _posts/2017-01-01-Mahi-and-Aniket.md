@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mahi and Aniket"
-date: 2018-01-01
+date: 2018-01-29
 tags: 
 - About
 - Front
@@ -14,9 +14,9 @@ Aniket is an artist trapped in the shell of an academic. He is passionate about 
 Together, they are a couple of odd-birds that found that if they nestle together, they can create a warm and cozy nest for themselves.
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://mahiwedsaniket.github.io/pictures/manda2.jpg"><br>
-</p>
+</p> -->
 
 
 <!-- <p align="center">

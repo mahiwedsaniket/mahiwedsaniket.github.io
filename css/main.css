@@ -1,12 +1,13 @@
 body {
     margin: 0px auto;
-    width: 868px;
+    width: 650px;
     color: rgb(160,105,30);
     background-color: #F5F3EE;
 	background: url("../fig/fade_blue_gota.jpg") ;
 	font-family: 'Vollkorn', "Times New Roman", Times, serif;
 	font-size: 16px;
 }
+
 nav ul, footer ul {
 /*    font-family:'Helvetica', 'Arial', 'Sans-Serif';*/
     padding: 0px;
@@ -57,9 +58,11 @@ h3 {
 
 p {
 	font-size: 18px;
-    line-height: 1.6em;
-    color: #333;
+    line-height: 1.6;
+    color: rgb(0,32,61);
 }
+
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: 0.8em;
@@ -96,19 +99,22 @@ li {
     font-size: 100%;
     margin-top: 0.1em;
     margin-bottom: 0.1em;
-    margin: .5em 0; }
+    margin: .5em 0; 
+}
 	
 div.ex1 {
 	    width: 500px;
 	    margin: auto;
 	    border: 3px solid #73AD21;
-	}
+}
 
 div.ex2 {
 	    max-width: 500px;
 	    margin: auto;
 	    border: 3px solid #73AD21;
-	}
+}
+
+
 	
 div.citiesfront {
 		max-width: 100%;
@@ -120,31 +126,22 @@ div.citiesfront {
 		border-radius: 10px;
 		border: 1px solid #D9853B;
 		font-size: 16px;
-	} 
+} 
 	
-
-
-
-
 div.card {
 		max-width: 100%;
 		background: url("../fig/offwhite.png") ;
-	    margin: 0px 0 20px 0;
+	    margin: 0px 0px 20px 0px;
 	    padding: 20px;
 		border-radius: 10px;
 		border: 1px solid #D9853B;
 	    -webkit-column-count: 1; /* Chrome, Safari, Opera */
 	    -moz-column-count: 1; /* Firefox */
-	    column-count: 1;
-		font-size: 50%;
-	
+	    column-count: 1;	
 	
 }
-	
-	
-	
-	
-	
+
+
 	
 div.citiesback {
 		max-width: 100%;
@@ -155,7 +152,7 @@ div.citiesback {
 	    padding: 20px;
 		border-radius: 10px;
 		border: 1px solid #D9853B;
-	}
+}
 
 div.citiesheader {
 /*		max-width: 180px;*/
@@ -166,7 +163,7 @@ div.citiesheader {
 	    padding: 5px 0px 5px 20px;
 		border-radius: 10px;
 		border: 1px solid #D9853B;
-	}
+}
 	
 div.citiesicons {
 /*		max-width: 180px;*/
@@ -177,7 +174,7 @@ div.citiesicons {
 	    padding: 10px 0px 5px 15px;
 		border-radius: 25px;
 		border: 1px solid #D9853B;
-	}
+}
 	
 div.citiestitle {
 /*		max-width: 180px;*/
@@ -189,7 +186,7 @@ div.citiestitle {
 		border-radius: 10px;
 		border: 1px solid #D9853B;
 		font-size: 80%;
-	}
+}
 	
 .newspaper {
     -webkit-column-count: 1; /* Chrome, Safari, Opera */
@@ -197,7 +194,6 @@ div.citiestitle {
     column-count: 1;
 	column-gap: 60px;
 } 
-
 
 .container {
     width: 100%;
@@ -215,6 +211,7 @@ div.citiestitle {
     width: 300px;
 	float: center;
 }
+
 
 
 img {
