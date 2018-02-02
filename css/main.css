@@ -1,5 +1,5 @@
 body {
-    margin: 60px auto;
+    margin: 0px auto;
     width: 868px;
     color: rgb(160,105,30);
     background-color: #F5F3EE;
@@ -37,7 +37,7 @@ a:hover {
 }
 
 h1 { 
-    font-size: 1.4em;
+    font-size: 140%;
     margin-top: 0.1em;
     margin-bottom: 0.1em;
     color: rgb(160,105,30);
@@ -54,6 +54,7 @@ h3 {
     list-style: none;
     font-weight: normal;
 }
+
 p {
 	font-size: 18px;
     line-height: 1.6em;
@@ -121,6 +122,30 @@ div.citiesfront {
 		font-size: 16px;
 	} 
 	
+
+
+
+
+div.card {
+		max-width: 100%;
+		background: url("../fig/offwhite.png") ;
+	    margin: 0px 0 20px 0;
+	    padding: 20px;
+		border-radius: 10px;
+		border: 1px solid #D9853B;
+	    -webkit-column-count: 1; /* Chrome, Safari, Opera */
+	    -moz-column-count: 1; /* Firefox */
+	    column-count: 1;
+		font-size: 50%;
+	
+	
+}
+	
+	
+	
+	
+	
+	
 div.citiesback {
 		max-width: 100%;
 		background-color: rgb(244,240,223);
@@ -163,6 +188,7 @@ div.citiestitle {
 	    padding: 5px;
 		border-radius: 10px;
 		border: 1px solid #D9853B;
+		font-size: 80%;
 	}
 	
 .newspaper {
@@ -188,4 +214,19 @@ div.citiestitle {
 .three {
     width: 300px;
 	float: center;
+}
+
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 99%;
+    border: 0px solid #ddd;
+    border-radius: 10px;
+    padding: 0px;
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
