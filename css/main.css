@@ -114,6 +114,10 @@ div.ex2 {
 	    border: 3px solid #73AD21;
 }
 
+div.center {
+	    margin: 0px auto;
+		width: 50%;
+}
 
 	
 div.citiesfront {
