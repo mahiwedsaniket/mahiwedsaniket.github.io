@@ -1,19 +1,19 @@
 body {
     margin: 0px auto;
     width: 97%;
-	max-width: 800px;
+	max-width: 700px;
     color: rgb(160,105,30);
     background-color: #F5F3EE;
 	background: url("../fig/fade_blue_gota.jpg") ;
 	font-family: 'Vollkorn', "Times New Roman", Times, serif;
-	font-size: 18px;
+	font-size: 16px;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 768px) {
 	body {
 	    margin: 0px auto;
-	    width: 97%;
-		max-width: 800px;
+	    width: 99%;
+/*		max-width: 800px;*/
 	    color: rgb(160,105,30);
 	    background-color: #F5F3EE;
 		background: url("../fig/fade_blue_gota.jpg") ;
@@ -77,10 +77,10 @@ p {
     color: rgb(0,32,61);
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 768px) {
 	p {
 		font-size: 20px;
-	    line-height: 1.4;
+	    line-height: 1.2;
 	    color: rgb(0,32,61);
 	}
 }
