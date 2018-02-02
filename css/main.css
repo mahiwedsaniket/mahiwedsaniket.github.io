@@ -9,7 +9,7 @@ body {
 	font-size: 16px;
 }
 
-@media only screen and (max-width: 1242px) {
+@media only screen and (max-width: 1600px) {
 	body {
 	    margin: 0px auto;
 	    width: 99%;
@@ -77,7 +77,7 @@ p {
     color: rgb(0,32,61);
 }
 
-@media only screen and (max-width: 1242px) {
+@media only screen and (max-width: 1600px) {
 	p {
 		font-size: 20px;
 	    line-height: 1.2;
