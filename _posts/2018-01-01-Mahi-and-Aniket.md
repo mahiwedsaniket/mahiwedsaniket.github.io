@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "About us2"
+title: "Mahi and Aniket"
 date: 2018-01-01
 tags: 
 - About
+- Front
 ---
-
-
-Time.
 
 Marie-Camille (Mahi) is dancer at heart, passionate about inventing avant-garde recipes, getting her steps done for the day and educating young mind so that they don't lose their creative spirits as they make their way through the maze of byzantine modern education system.
 
