@@ -6,9 +6,11 @@ tags:
 - Preinvite
 ---
 
-It gives us a great pleasure to inform you that our son Aniket is getting married to Mahi in Delhi on Sunday, March 4, 2018. The celebrations would remain incomplete without your presence. We would like to invite you to celebrate the occasion with us at the Reception at NTRO Complex, Ghitorni, Mehrauli-Gurgaon Road on March 4 from 7:30 PM onwards.
+It gives us a great pleasure to inform you that our son Aniket is getting married to Mahi in Delhi on Sunday, March 4, 2018. 
 
-The formal invitations are on their way and would be with you soon. 
+The celebrations would remain entirely incomplete without your presence. We would like to invite you to celebrate the occasion with us at the Reception at NTRO Complex, Ghitorni, Mehrauli-Gurgaon Road on March 4 from 7:30 PM onwards.
+
+The formal invitations are on their way and would be with you soon. For now, please save the date for us. 
 
 With warm regards,
 <p align="center">
