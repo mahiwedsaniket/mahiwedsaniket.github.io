@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Music
+title: Information
 ---
 
 
 <h1>
 	<div class="citiestitle">
-		Family
+		Information
 	</div>
 </h1>
 
 <ul>
   	{% for post in site.posts %}
 	{% for tag in post.tags %}
-	{% if tag == "Prac" %}
+	{% if tag == "Info" %}
 		<div class="card">
 	  		{{ post.content }}
 		</div>
