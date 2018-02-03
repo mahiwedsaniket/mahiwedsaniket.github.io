@@ -14,6 +14,6 @@ The formal invitations are on their way and would be with you soon. For now, ple
 
 With warm regards,
 <p align="center">
-  <img src="http://www.aniket.co.uk/b/MWA/signature/jandkm4.png"><br>
+  <img src="http://www.aniket.co.uk/b/MWA/signature/jandkm.png"><br>
 </p>
 
