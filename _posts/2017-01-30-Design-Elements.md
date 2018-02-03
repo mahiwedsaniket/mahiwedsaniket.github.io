@@ -6,7 +6,7 @@ tags:
 - Card
 ---
 
-There a three different elements of the card that we had to carefully think through. Colour, background illustration and technology. We took the colours from the Ochre Mountains near Roussillon, very near where Marie-Camille grew up. For the background illustration we scoured the hand drawn book cover illustrations from the 1940s. We ended up using four book covers.
+There are three different elements of the card that we had to carefully think through. Colour, background illustration and text. And the technology that would bake all these elements together. We took the colours from the Ochre Mountains near Roussillon, very near where Marie-Camille grew up. For the background illustration we scoured the hand drawn book cover illustrations from the 1950s. And for the text, we took inspiration from our favourite poet. 
 
 
 
