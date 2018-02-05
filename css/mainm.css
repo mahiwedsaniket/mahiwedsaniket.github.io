@@ -21,8 +21,20 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
-
 a {
+    text-decoration: none;
+	font-size: 100%;
+    color: #D9853B;
+}
+
+a:hover {
+    text-decoration: none;
+	font-size: 100%;
+	color: #C63D0F;
+	box-shadow: 0px -24px 0px rgb(222,200,161) inset;
+}
+
+a.menubar {
 	text-decoration: none;
 	font-size: 100%;
 	border-radius: 10px;
@@ -33,13 +45,15 @@ a {
 	box-shadow: 0px -4px 0px rgb(222,200,161) inset;
 }
 
-a:hover {
+a.menubar:hover {
     text-decoration: none;
 	font-size: 100%;
 	color: #C63D0F;
 	background-color: rgb(244,222,215);
 	box-shadow: 0px -4px 0px rgb(228,172,154) inset;
 }
+
+
 
 h1 { 
     font-size: 140%;
@@ -65,6 +79,11 @@ p {
     line-height: 1.4;
     color: rgb(0,32,61);
 }
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
 
 
 
