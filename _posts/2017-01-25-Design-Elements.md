@@ -6,7 +6,11 @@ tags:
 - Card
 ---
 
-There are three different elements of the card that we had to carefully think through. Colour, background illustration and text. And the technology that would bake all these elements together. We took the colours from the Ochre Mountains near Roussillon, very near where Marie-Camille grew up. For the background illustration we scoured the hand drawn book cover illustrations from the 1950s. And for the text, we took inspiration from our favourite poet. 
+There are three different elements of the card that we had to carefully think through. Colour, background illustration and text. And the technology that would bake all these elements together. For the background illustration we scoured the hand drawn book cover illustrations from the 1950s. Our idea was to search for meaning within the lines of retro book covers. In the age of automated perfection, the idiosyncrasies within the hand drawn illustrations contain messages that took us by surpose. Look closely and you see the tremble of the hand and the sharp intake of breath as the lines were drawn - something that connects us to the people who sat still and drew these covers from imagination. 
+
+The covers we ended up using are Tschaikovsky's *Fantasy-Overture Romeo Juliet* (1951 cover by Kissane Keane), *More Comic & Curious Verse*, a collection of poem selected by JM Cohen (1964 cover by Stephen Russ) and *Swinburne*, a collection of poems by Bonamy Dobree (1961 cover by Hans Schmoller). Yet, there were so many more that get left behind and we wish we could have used.
+
+We decided to bathe these covers in the Mediterranean light. We took the colours from the Ochre Mountains near Roussillon, very near where Marie-Camille grew up. The striation in the rocks are imbued with all kinds of meaning, temporal, this and other worldly. The realisation of the design is inspired in part by the solidity of colours in Matisse's Cut Outs series and in part by the text. And for the text, we took inspiration from our favourite poet. All paths to Ithaca go through Khalil Gibran.    
 
 
 
