@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Abroad Letter"
-date: 2018-01-01
+date: 2015-01-01
 tags: 
 - Abroad
 ---
 
 Dear Guest,
 
-To travel to India, you need to get yourself an e-visa. You can apply for the visa on the following website: [https://indianvisaonline.gov.in/evisa/tvoa.html](https://indianvisaonline.gov.in/evisa/tvoa.html).
+To travel to India, you need to get yourself an e-visa. You will find useful information to apply for the visa at: [https://indianvisaonline.gov.in/evisa/tvoa.html](https://indianvisaonline.gov.in/evisa/tvoa.html). You can fill out the actual online form for the e-Visa at [https://indianvisaonline.gov.in/evisa/Registration](https://indianvisaonline.gov.in/evisa/Registration). 
 
 The form is a bit troublesome but, fear not. Marie-Camille, a vetran when it comes to applying for e-visas have written out the cheatsheet below. Hope it helps.
 

@@ -37,20 +37,22 @@ nav ul li, footer ul li {
 }
 
 a {
-    text-decoration: none;
-	font-size: 1em;
+	text-decoration: none;
+	font-size: 100%;
+	border-radius: 10px;
+	padding: 0px 6px;
+	font-variant:small-caps;
     color: #D9853B;
+	background-color: rgb(242,233,217);
+	box-shadow: 0px -4px 0px rgb(222,200,161) inset;
 }
+
 a:hover {
     text-decoration: none;
-	font-size: 1em;
+	font-size: 100%;
 	color: #C63D0F;
-	/*font-style: bold;
-	font-variant:small-caps;
-	font-weight:bold;*/
-/*	border-bottom: 3px solid #C63D0F;*/
-/*	border-bottom: 2.5px solid #C63D0F;*/
-	box-shadow: 0px -24px 0px rgb(252,255,208) inset;
+	background-color: rgb(244,222,215);
+	box-shadow: 0px -4px 0px rgb(228,172,154) inset;
 }
 
 h1 { 
