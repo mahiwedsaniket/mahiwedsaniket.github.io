@@ -2,7 +2,7 @@ body {
     margin: 0px auto;
     width: 95%;
 /*	max-width: 900px;*/
-    color: rgb(160,105,30);
+    color: rgb(160,105,130);
     background-color: #F5F3EE;
 	background: url("../fig/fade_blue_gota.jpg") ;
 	font-family: 'Vollkorn', "Times New Roman", Times, serif;
@@ -40,7 +40,9 @@ a.menubar {
 	border-radius: 10px;
 	padding: 0px 6px;
 	font-variant:small-caps;
-    color: #D9853B;
+/*	background-color: rgb(242,233,217);
+    color: #D9853B;*/
+	color: rgb(153,107,47);
 	background-color: rgb(242,233,217);
 	box-shadow: 0px -4px 0px rgb(222,200,161) inset;
 }
@@ -77,8 +79,10 @@ h3 {
 p {
 	font-size: 18px;
     line-height: 1.4;
-    color: rgb(0,32,61);
+    color: rgb(44,54,78);
 }
+
+
 
 p.box {
 	display:inline-block;

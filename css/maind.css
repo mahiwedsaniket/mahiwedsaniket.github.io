@@ -55,7 +55,8 @@ a.menubar {
 	border-radius: 10px;
 	padding: 0px 6px;
 	font-variant:small-caps;
-    color: #D9853B;
+/*    color: #D9853B;*/
+	color: rgb(153,107,47);
 	background-color: rgb(242,233,217);
 	box-shadow: 0px -4px 0px rgb(222,200,161) inset;
 }
