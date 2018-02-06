@@ -1,15 +1,12 @@
 ---
 layout: post
-title: "About Picture2"
-date: 2010-01-30
+title: "Family Card1"
+date: 2010-01-25
 tags: 
 - Family
 ---
 
 
-<!-- <div class="polaroid">
-  <img src="http://www.aniket.co.uk/b/MWA/ma2.jpg">
-</div> -->
 
 
 <div class="polaroidcard">
