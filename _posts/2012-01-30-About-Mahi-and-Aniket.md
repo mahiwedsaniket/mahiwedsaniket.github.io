@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Mahi and Aniket"
-date: 2018-01-28
+title: "About Mahi and Aniket"
+date: 2012-01-30
 tags: 
 - About
 - Front
 ---
 
-Marie-Camille (Mahi) is dancer at heart, passionate about inventing avant-garde recipes, getting her steps done for the day and educating young mind so that they don't lose their creative spirits as they make their way through the maze of byzantine modern education system.
+Marie-Camille (Mahi) is dancer at heart, passionate about inventing avant-garde recipes, getting her steps done for the day and educating young minds so that they don't lose their creative spirits as they make their way through the byzantine maze of the modern education system.
 
 Aniket is an artist trapped in the shell of an academic. He is passionate about conjuring up solutions to the impossible problems of the world, making edible food when Marie-Camille's avant-garde recipes don't work out and dedicating his life to making Marie-Camille happy.
 

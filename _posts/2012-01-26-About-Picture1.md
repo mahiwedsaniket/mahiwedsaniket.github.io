@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Picture4"
+title: "About Picture4"
 date: 2012-01-26
 tags: 
 - About
