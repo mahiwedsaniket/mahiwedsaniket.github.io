@@ -10,5 +10,5 @@ tags:
 
 
 <div class="polaroidcard">
-  <img src="https://mahiwedsaniket.github.io/pictures/1.png">
+  <img src="https://mahiwedsaniket.github.io/pictures/1s.png">
 </div>
