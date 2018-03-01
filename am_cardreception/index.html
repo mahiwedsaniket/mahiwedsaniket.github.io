@@ -1,0 +1,28 @@
+---
+layout: default
+title: Sangeet and Wedding Functions
+---
+
+
+<h1>
+	<div class="citiestitle">
+		Wedding Reception Card
+	</div>
+</h1>
+
+<ul>
+  	{% for post in site.posts %}
+	{% for tag in post.tags %}
+	{% if tag == "cardreception" %}
+		<div class="card">
+	  		{{ post.content }}
+		</div>
+  {% endif %}
+  {% endfor %}
+  {% endfor %}
+</ul>
+
+
+
+
+
