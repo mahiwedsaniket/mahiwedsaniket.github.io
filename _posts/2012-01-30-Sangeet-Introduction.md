@@ -3,8 +3,8 @@ layout: post
 title: "Sangeet Introduction"
 date: 2012-01-30
 tags: 
-- About
 - cardsangeet
+
 ---
 
 Dear Friend,
