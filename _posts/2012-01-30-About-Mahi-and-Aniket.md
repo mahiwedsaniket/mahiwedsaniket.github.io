@@ -5,6 +5,7 @@ date: 2012-01-30
 tags: 
 - About
 - Front
+
 ---
 
 Marie-Camille (Mahi) is a dancer at heart, passionate about inventing avant-garde recipes, getting her steps done for the day and educating young minds so that they don't lose their creative spirits as they make their way through the byzantine maze of the modern education system.
