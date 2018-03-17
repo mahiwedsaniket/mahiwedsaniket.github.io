@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<title>Cambridge, Green</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body style="background-color:#110011;" style="text-color:#555555;" >
+<style>
+.mySlides {display:none;}
+</style>
+<body>
+
+<h2 class="w3-center" style="color:#441144">Cambridge, Green</h2>
+
+<div class="w3-content w3-section" style="max-width:60%">
+  <img class="mySlides" src="01.jpg" style="width:100%">
+  <img class="mySlides" src="02.jpg" style="width:100%">
+  <img class="mySlides" src="03.jpg" style="width:100%">
+  <img class="mySlides" src="04.jpg" style="width:100%">
+  <img class="mySlides" src="05.jpg" style="width:100%">
+  <img class="mySlides" src="06.jpg" style="width:100%">
+  <img class="mySlides" src="07.jpg" style="width:100%">
+  <img class="mySlides" src="08.jpg" style="width:100%">
+  <img class="mySlides" src="09.jpg" style="width:100%">
+</div>
+
+<!-- <p style="color:red">After Bataclan</p> -->
+
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 2000); // Change image every 3.5 seconds
+}
+</script>
+
+</body>
+</html>
